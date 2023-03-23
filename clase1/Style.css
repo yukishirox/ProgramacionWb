@@ -1,0 +1,21 @@
+h1, p{
+    text-align: center;
+}
+.imgs{
+    width: 150px;
+    height: 120px;
+
+}
+
+body{
+
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.tele{
+    padding-left: 10%;
+}
+ol{
+    vertical-align: middle;
+}
+

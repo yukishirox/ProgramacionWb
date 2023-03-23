@@ -1,0 +1,20 @@
+img{
+    float: right;
+    width: 150px;
+    height: 200px;
+}
+#caja1{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h1{
+    text-align: center;
+}
+body {
+    background-image: url(img/backgroud.jpg);
+    color: #63b9eb
+}
+
+.menu{
+    display: flex;
+}
